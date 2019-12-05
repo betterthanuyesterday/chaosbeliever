@@ -1,0 +1,16 @@
+nRF Logger Welcome, 2019-12-05
+Welcome! (ReadMe)
+W	13:16:32.368	Welcome in nRF Logger
+
+I	13:16:32.397	nRF Logger allows developers to browse and view log sessions created in other applications.
+I	13:16:32.410	There are 6 log levels available for use which may be filtered in the menu:
+
+D	13:16:32.424	DEBUG - to log very low level events
+V	13:16:32.481	VERBOSE - by default hidden
+I	13:16:32.508	INFO - standard level, visible by default
+A	13:16:32.525	APP - for application level entries
+W	13:16:32.540	WARNING - to mark something important
+E	13:16:32.554	ERROR - when something goes wrong
+
+I	13:16:32.581	Please, change the Level value in menu to show and hide messages.
+V	13:16:32.597	A session may also be marked with a star or flag or given a description.
